@@ -1,5 +1,7 @@
 {
   "breweries": [
-   { "id":1, "name": "ABC", "country": "USA" , "website_url":"google.com"}
+   { "id":1, "name": "ABC", "country": "USA" , "website_url":"google.com"},
+   { "id":2,"name": "DEF", "country": "UK" , "website_url":"yahoo.com"},
+    { "id":3,"name": "HIJ", "country": "SPAIN" , "website_url":"aol.com"}
   ]
 }
