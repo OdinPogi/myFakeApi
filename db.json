@@ -1,7 +1,8 @@
-{ "breweries":[
-    { "name": "ABC", "country": "USA" , "website_url":"google.com"},
-    { "name": "DEF", "country": "UK" , "website_url":"yahoo.com"},
-    { "name": "HIJ", "country": "SPAIN" , "website_url":"aol.com"}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ]
-  }
-  
+}
