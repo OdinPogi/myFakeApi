@@ -1,8 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "breweries": [
+   { "name": "ABC", "country": "USA" , "website_url":"google.com"}
   ]
 }
